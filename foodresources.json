@@ -8,8 +8,8 @@
       "state": "CA",
       "zipcode": "92056",
       "phone": "(760) 795-6886",
-      "latitude": "33.191551",
-      "longitude": "-117.303615",
+      "latitude": 33.191551,
+      "longitude": -117.303615,
       "description": "Test Description",
       "isDiscounted": 1,
       "isFree": 0
@@ -22,8 +22,8 @@
     "state": "CA",
     "zipcode": "92075",
     "phone": "(858) 783-8934",
-    "latitude": "45.191551",
-    "longitude": "200.303615",
+    "latitude": 45.191551,
+    "longitude": 200.303615,
     "description": "Test Description2",
     "isDiscounted": 0,
     "isFree": 1
