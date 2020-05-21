@@ -27,6 +27,62 @@
     "description": "Test Description2",
     "isDiscounted": 0,
     "isFree": 1
+    }, {
+    "organizationName":"FoodResourceTestObject2",
+    "id": 3,
+    "name": "LocationTestObject2",
+    "address": "773 S Nardo Ave Apt M-10",
+    "city": "Solana Beach",
+    "state": "CA",
+    "zipcode": "92075",
+    "phone": "(858) 783-8934",
+    "latitude": 45.191551,
+    "longitude": 200.303615,
+    "description": "Test Description2",
+    "isDiscounted": 0,
+    "isFree": 1
+    }, {
+    "organizationName":"FoodResourceTestObject2",
+    "id": 4,
+    "name": "LocationTestObject2",
+    "address": "773 S Nardo Ave Apt M-10",
+    "city": "Solana Beach",
+    "state": "CA",
+    "zipcode": "92075",
+    "phone": "(858) 783-8934",
+    "latitude": 45.191551,
+    "longitude": 200.303615,
+    "description": "Test Description2",
+    "isDiscounted": 0,
+    "isFree": 1
+    }, {
+    "organizationName":"FoodResourceTestObject2",
+    "id": 5,
+    "name": "LocationTestObject2",
+    "address": "773 S Nardo Ave Apt M-10",
+    "city": "Solana Beach",
+    "state": "CA",
+    "zipcode": "92075",
+    "phone": "(858) 783-8934",
+    "latitude": 45.191551,
+    "longitude": 200.303615,
+    "description": "Test Description2",
+    "isDiscounted": 0,
+    "isFree": 1
+    }, {
+    "organizationName":"FoodResourceTestObject2",
+    "id": 2,
+    "name": "LocationTestObject2",
+    "address": "773 S Nardo Ave Apt M-10",
+    "city": "Solana Beach",
+    "state": "CA",
+    "zipcode": "92075",
+    "phone": "(858) 783-8934",
+    "latitude": 45.191551,
+    "longitude": 200.303615,
+    "description": "Test Description2",
+    "isDiscounted": 0,
+    "isFree": 1
     }
   ]
 }
